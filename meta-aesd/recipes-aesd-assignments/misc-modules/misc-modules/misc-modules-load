@@ -1,0 +1,4 @@
+#!/bin/sh
+/usr/bin/hello-load
+/usr/bin/module-load faulty
+
